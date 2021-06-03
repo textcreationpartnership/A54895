@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Pindarick ode on the death of the Queen by a young gentleman.</title>
+            <author>Young gentleman.</author>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54895</idno><idno type="EEBO-CITATION">12991507</idno>
+  <idno type="VID">96342</idno>
+  <idno type="EEBO-PROQUEST">2240868936</idno>
+  
+            <idno type="STC">Wing P2253</idno>
+            <idno type="STC">ESTC R8089</idno>
+            <idno type="OCLC">12991507</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A54895)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96342)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 396:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Pindarick ode on the death of the Queen by a young gentleman.</title>
+                  <author>Young gentleman.</author>
+               </titleStmt>
+               <extent>6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed, and are to be sold by John Whitlock ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Licensed, January 29th, 1694/5. D. Poplar"</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Mary --  II, --  Queen of England, 1662-1694 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:96342:1"/>
+            <pb facs="tcp:96342:1"/>
+            <p>A Pindarick ODE, ON THE DEATH OF THE QUEEN.</p>
+            <p>By a Young GENTLEMAN.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Licensed, <hi>January</hi> 29th, 1694/5.</p>
+                        <closer>
+                           <signed>D. Poplar.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed, and are to be Sold by <hi>John Whitlock,</hi> near <hi>Stationers-Hall.</hi> MDCXCV.</p>
+         </div>
+      </front>
+      <body>
+         <div type="ode">
+            <pb facs="tcp:96342:2"/>
+            <pb n="3" facs="tcp:96342:2"/>
+            <head>A Pindarick ODE.</head>
+            <lg>
+               <head>I.</head>
+               <l>'TWas in that fatal Night</l>
+               <l>I slumb'ring on my Pillow lay,</l>
+               <l>Expecting the approach of Day,</l>
+               <l>Opprest with a dull weight</l>
+               <l>Of strange Events, of some intollerable Fate,</l>
+               <l>That had befel our State;</l>
+               <l>But not by <hi>France,</hi> or any Foreign Foes,</l>
+               <l>Alas, 'twas none of those.</l>
+               <l>Before me airy Phantoms rose,</l>
+               <l>Grim Death presented to my view his Dart,</l>
+               <l>Piercing a Royal Heart:</l>
+               <l>Then frightful Dreams disturb'd my restless Soul,</l>
+               <l>Whilst sad Distractions through my Bosom roll:</l>
+               <l>I saw the Sky with Horror fill'd,</l>
+               <l>Methought the Moon look'd pale,</l>
+               <l>And pearly Dews like Tears distill'd</l>
+               <l>On the adjoyning Vale.</l>
+               <l>The Spheres crackt, Nature started, and became</l>
+               <l>Reverst, and shook the universal Frame.</l>
+               <l>I heard the doleful Knell,</l>
+               <l>'Twas then (alas) 'twas then,</l>
+               <l>O ne'er to be recall'd agen;</l>
+               <l>The Best of Queens, ah me, (a grief to tell!)</l>
+               <l>'Twas then the stateliest Cedar of the Forest fell.</l>
+            </lg>
+            <lg>
+               <head>II.</head>
+               <l>O Heavens! What Dead? I cry'd</l>
+               <l>What mean those blubb'ring Eyes?</l>
+               <l>Dead, that dejected face reply'd,</l>
+               <l>And those heart-breaking Sighs.</l>
+               <pb n="4" facs="tcp:96342:3"/>
+               <l>'Twas ominous (thought I): But O impartial Death,</l>
+               <l>What hadst thou none—here Sorrow stopt my breath,</l>
+               <l>('Twas what I fear'd at first)</l>
+               <l>My panting Heart had almost burst,</l>
+               <l>My Members chill'd, nor would my Senses stay,</l>
+               <l>I dy'd to hear her Dead; and thus intranc'd I lay:</l>
+               <l>When lo, an universal Groan</l>
+               <l>For Her, reviv'd my drooping Heart once more,</l>
+               <l>But did the former Sorrows to my Sense restore.</l>
+               <l>Imperious Death, what hadst thou none,</l>
+               <l>(Continued I.)</l>
+               <l>In whom to quench th' infectious Dart?</l>
+               <l>Would nothing satisfie?</l>
+               <l>There's vulgar ones enough to feel thy smart:</l>
+               <l>What made th' inflame the Royal Blood,</l>
+               <l>That too so great, so all-divine, in every part so good?</l>
+            </lg>
+            <lg>
+               <head>III.</head>
+               <l>Well now I find 'tis plain —</l>
+               <l>— 'Tis plain, (said I,) that all</l>
+               <l>Without distinction fall,</l>
+               <l>For though w' have Reason to complain</l>
+               <l>At the too rigid Laws of Fate,</l>
+               <l>That such a Life should have so short a date;</l>
+               <l>Yet we repine in vain,</l>
+               <l>Since every day we find</l>
+               <l>That Death as well as Love is blind:</l>
+               <l>What we dull and insensible do call</l>
+               <l>Immortal and Divine,</l>
+               <l>Are Mortal All,</l>
+               <l>And what we must at last resign.</l>
+               <l>In equal Scales Death lays the Rustick, and the Heroin.</l>
+            </lg>
+            <lg>
+               <head>IV.</head>
+               <l>And yet had Heaven at first decreed</l>
+               <l>The Great and Good should longest live,</l>
+               <l>She'd from the stroke of Fate been freed,</l>
+               <l>And would from age to age survive;</l>
+               <l>A Queen—above my dull Conceptions, (or the Muses flight)</l>
+               <l>Nor can my ruder Pen express,</l>
+               <l>(And yet a better Hand may do it less)</l>
+               <pb n="5" facs="tcp:96342:3"/>
+               <l>Her Worth's beyond the reach of Human Wit:</l>
+               <l>Her rich transcendent Soul soar'd up too high</l>
+               <l>For any Poets Eye.</l>
+               <l>All Virtues center'd in Her Royal Heart,</l>
+               <l>Yet were communicable unto none,</l>
+               <l>But by Reflection;</l>
+               <l>Though ev'ry where they Blessings did impart.</l>
+               <l>Those brave Viragoes of the former Times,</l>
+               <l>Which Learned Bards in their Immortal Rhimes</l>
+               <l>Did with such Grace adorn,</l>
+               <l>So wondrous Good, so wondrous Fair,</l>
+               <l>(Insipid Souls) could not compare</l>
+               <l>To that blest Saint for whom we mourn.</l>
+               <l>With dextrous Skill</l>
+               <l>She Sway'd the Scepter, and Reform'd the State,</l>
+               <l>Whilst her Heroick Lord,</l>
+               <l>With his avenging Sword,</l>
+               <l>In spite of Fate,</l>
+               <l>In Fields of Blood, where warlike Engines kill,</l>
+               <l>To Death and Foes</l>
+               <l>Does bare in our Defence, his Sacred Breast expose.</l>
+            </lg>
+            <lg>
+               <head>V.</head>
+               <l>Methinks I see a-far,</l>
+               <l>That Thunderbolt of War,</l>
+               <l>VVhilst bravely on his eager Troops he led,</l>
+               <l>Through Fire and Smoak,</l>
+               <l>The Enemies thickest Files he broke,</l>
+               <l>And struck with Fear their fiercest Champions dead;</l>
+               <l>I saw the Hero advance,</l>
+               <l>That Glory of our Age,</l>
+               <l>VVhen with a warlike Rage</l>
+               <l>He bad Defiance to th' Usurping Power of <hi>France</hi>—</l>
+            </lg>
+            <lg>
+               <head>VI.</head>
+               <l>But tracing o'er the Acts the Great <hi>Nassau</hi> had done,</l>
+               <l>VVhat signal Battels won;</l>
+               <l>And o'er <hi>MARIA</hi>'s Ashes Mourn,</l>
+               <l>That lay Intombed in their Sacred Urn,</l>
+               <pb n="6" facs="tcp:96342:4"/>
+               <l>The Royal Genius Rose t' accuse</l>
+               <l>My too audacious Muse;</l>
+               <l>She stood clad all in white,</l>
+               <l>Thick Purple Spots bedeckt her Heavenly Face,</l>
+               <l>But with such Majesty, with such a Grace:</l>
+               <l>She look't so innocent, and yet so bright,</l>
+               <l>Her Glory expell'd the Darkness of the Night.</l>
+               <l>Approaching to my side,</l>
+               <l>(Ignorant Wretch!) and what art thou, she cry'd?</l>
+               <l>What vulgar Pen?</l>
+               <l>Dar'st thou in thy unpolish't Rhimes to sing</l>
+               <l>My Praise, (or of so brave a King)</l>
+               <l>(Dull Fool!) I'm now above the Praise of Men,</l>
+               <l>And know (bold Ignorant!) know</l>
+               <l>I've left Mortality, and Things below,</l>
+               <l>My Soul to Heaven mounts, 'tis thither now I go,</l>
+               <l>There shall Immortally remain.</l>
+               <l>This She pronounc'd aloud</l>
+               <l>Blest Saint! said I, and bow'd,</l>
+               <l>And strove the Airy Vision to retain:</l>
+               <l>When strait, methought, the Skies</l>
+               <l>Opening, presented Heaven to my Eyes,</l>
+               <l>From thence I saw.</l>
+               <l>Miriads of Angels sent,</l>
+               <l>And all the Saints in slow Procession went:</l>
+               <l>The Sun stood still and view'd,</l>
+               <l>To that intent</l>
+               <l>The Moon her Course renew'd;</l>
+               <l>VVhen lo! The Glorious Queen did solemnly ascend,</l>
+               <l>On every side the Heavenly Host attend.</l>
+               <l>Thus they proceeded on,</l>
+               <l>I Ey'd 'em past the Sun,</l>
+               <l>But could no farther see,</l>
+               <l>The glorious Sight struck me (poor Mortal) in an Extasie.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:96342:4"/>
+         </div>
+      </body>
+   </text>
+</TEI>
